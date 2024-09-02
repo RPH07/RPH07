@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <a href="https://www.instagram.com/0xrey.sol/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -58,12 +58,6 @@
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RPH07/RPH07/output/snake.svg" alt="Snake animation" />
 
 ###
 
