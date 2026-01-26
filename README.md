@@ -63,8 +63,4 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RPH07/count.svg?"  />
-</div>
-
 ###
